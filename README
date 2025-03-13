@@ -1,0 +1,18 @@
+# Eve
+
+Eve is a tool for converting speech to text and then summarizing it using AI. It is built with the help of OpenAI's Whisper model. 
+- It could be used to transcribe meetings, lectures, etc. 
+- It could be used to summarize text from a podcast, youtube video, etc. 
+
+## Features
+
+- [ ] Transcribe speech to text
+- [ ] Summarize text
+- [ ] Translate text
+- [ ] Chat with the summary
+
+## Tech Stack
+
+- [ ] Tailwind CSS
+- [ ] OpenAI Whisper
+
