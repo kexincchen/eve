@@ -35,3 +35,7 @@ Eve is an AI agent for everyday inputs! It can be used to transcribe meetings, l
 5. Live captions are shown during recording for immediate feedback
 6. View the complete caption history during and after recording
 7. Download the transcript as a text file after recording is complete
+
+<img width="1346" alt="Screenshot 2025-03-14 at 10 36 12" src="https://github.com/user-attachments/assets/9e9db708-406f-4459-9f17-b140286bfe47" />
+
+
